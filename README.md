@@ -17,7 +17,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X85kjh1EYN-quX79Z-P43C9I_naNvjhB/view?usp=sharing](https://drive.google.com/file/d/1X85kjh1EYN-quX79Z-P43C9I_naNvjhB/view?usp=sharing)
 
-- ⚡ Fun fact **I have 0 experience when it comes to DS and Algos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
