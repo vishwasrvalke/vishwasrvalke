@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Full-stack-type-graphql app**
 
-- 🌱 I’m currently learning **React js, typescript, javascript, HTML,CSS**
+- 🌱 I’m currently learning **React js, Typescript, javascript, HTML,CSS**
 
 - 👨‍💻 All of my projects are available at [https://vishwasrvalke.netlify.app](https://vishwasrvalke.netlify.app)
 
-- 💬 Ask me about **React js, typescript javascript**
+- 💬 Ask me about **React, Typescript, Javascript**
 
 - 📫 How to reach me **vishwas8@gmail.com**
 
