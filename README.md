@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **tRPC, Astro, Nestjs**
 
-- 👨‍💻 [Personal Portfolio](https://vishwasrvalke.netlify.app)
+- 👨‍💻 [Personal Portfolio](https://vishwasrvalke.vercel.app)
 
 - 💬 Ask me about **React, Typescript, Javascript**
 
